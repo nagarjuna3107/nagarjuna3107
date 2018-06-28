@@ -1,0 +1,10 @@
+nagarjun
+pramod
+narendra.
+-
+echo "# nagarjuna3107" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nagarjuna3107/nagarjuna3107.git
+git push -u origin master
